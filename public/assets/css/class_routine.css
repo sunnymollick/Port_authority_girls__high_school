@@ -1,0 +1,13 @@
+.day {
+        width: 100px;
+        text-transform: capitalize;
+        font-weight: bold;
+        color: #747172;
+        text-align: center;
+    }
+    table th, td {
+        font-size: 8px;
+    }
+    #class_routine p{
+        font-size: 8px;
+    }

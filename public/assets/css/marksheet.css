@@ -1,0 +1,31 @@
+#header_details p {
+        font-size: 11px;
+    }
+    #manage_all_result td, th {
+        text-align: center;
+        font-size: 11px;
+    }
+
+    #manage_all_result td.sub_name {
+        text-align: left;
+    }
+
+    #marks_inf td, th {
+        text-align: center;
+        font-size: 11px;
+    }
+    #std_inf td, th {
+        text-align: center;
+        font-size: 11px;
+    }
+
+    input {
+       border: 0 solid #fefefe;
+    }
+    @media screen and (min-width: 768px) {
+
+        #marks_distribution {
+            border-left: 1px solid #e9e9e9;
+        }
+
+    }

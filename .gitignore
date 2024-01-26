@@ -1,0 +1,16 @@
+.git
+.idea
+/node_modules
+/public/hot
+/public/fee_books
+/public/assets/uploads
+/public/storage
+/storage/app/backups
+/storage/*.key
+/vendor
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log

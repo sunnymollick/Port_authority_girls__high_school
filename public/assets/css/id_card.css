@@ -1,0 +1,14 @@
+.card {
+    width: 40%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.school_title {
+    clear: both;
+}
+
+.school_address {
+    clear: both;
+}

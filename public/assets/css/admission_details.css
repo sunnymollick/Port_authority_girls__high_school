@@ -1,0 +1,28 @@
+
+#heading {
+    display: block;
+}
+
+#logo_img {
+    width: 45%;
+}
+
+#applicant_img {
+    width: 110px;
+}
+
+#logo_section {
+    float: left;
+    width: 80%;
+}
+
+#passport_img_section {
+    position: relative;
+    float: left;
+    width: 20%;
+}
+
+#application table td {
+    font-size: 11px;
+    line-height: 10px;
+}
